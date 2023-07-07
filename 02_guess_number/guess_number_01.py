@@ -1,3 +1,8 @@
+"""
+Author: Morteza Maleki
+github: Python More!
+"""
+
 import random
 import telebot
 

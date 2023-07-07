@@ -1,4 +1,7 @@
-# add menu
+"""
+Author: Morteza Maleki
+github: Python More!
+"""
 
 import telebot
 from telebot import types
